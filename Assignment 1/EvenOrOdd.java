@@ -1,5 +1,7 @@
 package Assignment1;
 
+// Question 4
+
 import java.util.Scanner;
 
 public class EvenOrOdd {
